@@ -206,3 +206,10 @@
 # specified value is not present in the object
 
 #bitwise op 
+
+
+def add_from_intro_file(a,b):
+    return a + b
+
+def greet():
+    print("hello world")
